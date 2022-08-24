@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Deleting lines
-=======
+
 Hello World
->>>>>>> 79b9d4ca9ce0e2cadb10eb4ecfc77e07ff896de8
+
